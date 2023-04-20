@@ -1,4 +1,3 @@
-
 //table for login 
 
 create table admin_login(
@@ -53,7 +52,3 @@ create table speciality(
 spec_id int primary key,
 spec_name varchar(50) not null
 ); 
-
-
-
-
